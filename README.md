@@ -1,4 +1,4 @@
-# PEC3_Manovich_Reloaded
+# PEC3 Manovich Reloaded
 
 Antonio Vidal González
 Cultura Digital
