@@ -14,7 +14,7 @@ UOC 2025/2026
 
 # Repositorio Github
 
-[https://github.com/tuusuario/PEC3_Manovich_Reloaded](https://github.com/tuusuario/PEC3_Manovich_Reloaded)
+[https://github.com/antonio-VG/PEC3_Manovich_Reloaded](https://github.com/antonio-VG/PEC3_Manovich_Reloaded)
 
 ---
 
