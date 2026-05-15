@@ -288,8 +288,17 @@ Estos ejemplos también demuestran que la hibridación digital ya no es una exce
 
 ---
 
+# Uso de herramientas de inteligencia artificial
+
+Para realizar esta práctica se han utilizado herramientas de inteligencia artificial como apoyo puntual en la organización del trabajo, corrección de algunos textos y búsqueda de ideas relacionadas con los conceptos de Lev Manovich.
+
+El contenido final, la redacción y el análisis de los casos han sido elaborados y revisados personalmente para adaptarlos a los requisitos de la actividad.
+
+---
+
 ## Licencia
 
 Este trabajo está bajo licencia Creative Commons BY-NC-ND 4.0.
+![Imagen CC](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/CC_BY-NC-ND.svg/960px-CC_BY-NC-ND.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20181117112829)
 
 No se permite la modificación ni reutilización derivada del contenido sin autorización expresa del autor.
