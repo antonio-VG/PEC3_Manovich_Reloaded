@@ -286,3 +286,10 @@ Estos ejemplos también demuestran que la hibridación digital ya no es una exce
 - https://submarinechannel.com
 - https://github.com
 
+---
+
+## Licencia
+
+Este trabajo está bajo licencia Creative Commons BY-NC-ND 4.0.
+
+No se permite la modificación ni reutilización derivada del contenido sin autorización expresa del autor.
