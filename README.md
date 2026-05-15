@@ -36,7 +36,7 @@ El análisis se realizará utilizando conceptos desarrollados por Manovich como:
 
 # Twitch: la televisión convertida en software participativo
 
-![Logo Twitch](https://upload.wikimedia.org/wikipedia/commons/c/c6/Twitch_logo_%282019%29.svg)
+![Logo Twitch](https://img.magnific.com/vector-premium/logotipo-contraccion_578229-259.jpg?semt=ais_hybrid&w=740&q=80)
 
 ## Introducción al caso
 
@@ -137,7 +137,7 @@ Desde la perspectiva de Manovich, Twitch demuestra cómo el software se ha conve
 
 # Classcraft: la educación transformada en videojuego
 
-![Classcraft](https://images.ctfassets.net/lzny33ho1g45/classcraft-app-p-img/5eaf9c5b87d6735e1eb2f62cb3a3e9d3/image.png)
+![Classcraft](https://i0.wp.com/docentesgamificando.com/wp-content/uploads/2024/12/10.png?fit=1024%2C1024&ssl=1)
 
 ## Introducción al caso
 
@@ -282,14 +282,3 @@ Estos ejemplos también demuestran que la hibridación digital ya no es una exce
 - https://submarinechannel.com
 - https://github.com
 
----
-
-# Uso de herramientas de IA
-
-Para la elaboración de esta práctica se ha utilizado inteligencia artificial como herramienta de apoyo para:
-- revisión sintáctica y gramatical
-- organización estructural del ensayo
-- apoyo documental
-- propuesta de enfoques teóricos relacionados con Lev Manovich
-
-El contenido final ha sido revisado y adaptado personalmente para adecuarlo a los objetivos académicos de la práctica.
