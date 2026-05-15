@@ -1,107 +1,137 @@
-# PEC3 Manovich Reloaded
+# PEC3_Manovich_Reloaded
+
+# Autor
 
 Antonio Vidal González
+
+# Asignatura
+
 Cultura Digital
+
+# Curso
+
 UOC 2025/2026
+
+# Repositorio Github
+
+[https://github.com/tuusuario/PEC3_Manovich_Reloaded](https://github.com/tuusuario/PEC3_Manovich_Reloaded)
+
+---
 
 # Introducción
 
-En *El software toma el mando*, Lev Manovich analiza cómo el software se ha convertido en el motor principal de la cultura digital contemporánea. Más allá de funcionar únicamente como una herramienta técnica, el software modifica la manera en que consumimos información, interactuamos socialmente y producimos contenidos culturales. La hibridación digital aparece precisamente cuando diferentes medios, formatos y dinámicas tradicionales convergen en nuevas plataformas gobernadas por interfaces, algoritmos y sistemas interactivos.
+En *El software toma el mando*, Lev Manovich explica cómo el software se ha convertido en el elemento central de la cultura digital contemporánea. Ya no utilizamos el software únicamente como una herramienta técnica, sino como un sistema que organiza la manera en que interactuamos, aprendemos, consumimos entretenimiento y nos comunicamos. Muchas plataformas digitales actuales representan ejemplos claros de hibridación, un proceso donde distintos medios tradicionales convergen y se transforman mediante interfaces, algoritmos y dinámicas interactivas.
 
-Actualmente, muchos de los ejemplos analizados por Manovich han evolucionado hacia nuevas formas de interacción digital todavía más complejas. Plataformas como Twitch y Classcraft representan claramente esta evolución. Ambas transforman medios tradicionales mediante procesos de automatización, participación colectiva, interactividad y gamificación. Twitch convierte el consumo audiovisual en una experiencia participativa y gobernada por software, mientras que Classcraft reinterpreta el entorno educativo mediante mecánicas propias del videojuego.
+En este ensayo se analizarán dos casos contemporáneos de hibridación digital: Twitch y Classcraft. Ambos ejemplos muestran cómo el software modifica experiencias culturales tradicionales. Twitch transforma la televisión y el entretenimiento en directo mediante participación colectiva y sistemas interactivos, mientras que Classcraft convierte la educación en una experiencia gamificada inspirada en videojuegos de rol.
 
-En este ensayo se analizarán ambos casos desde la perspectiva teórica de Manovich, utilizando conceptos como hibridación, modularidad, variabilidad, automatización, interactividad y transcodificación cultural.
+El análisis se realizará utilizando conceptos desarrollados por Manovich como:
+- hibridación
+- automatización
+- modularidad
+- variabilidad
+- interactividad
+- transcodificación cultural
 
 ---
 
 # Twitch: la televisión convertida en software participativo
 
-![Twitch](https://upload.wikimedia.org/wikipedia/commons/c/c6/Twitch_logo_%282019%29.svg)
+![Logo Twitch](https://upload.wikimedia.org/wikipedia/commons/c/c6/Twitch_logo_%282019%29.svg)
 
 ## Introducción al caso
 
-Twitch es una plataforma de streaming en directo centrada inicialmente en videojuegos, aunque actualmente incluye contenidos musicales, entrevistas, arte digital, eventos deportivos y programas conversacionales. La plataforma representa uno de los ejemplos más claros de hibridación digital contemporánea porque fusiona características de múltiples medios anteriores en una única interfaz controlada por software.
+Twitch es una plataforma de streaming en directo centrada originalmente en videojuegos, aunque actualmente incluye entrevistas, música, arte digital, deportes y contenidos conversacionales. La plataforma se ha convertido en uno de los ejemplos más importantes de entretenimiento digital contemporáneo.
 
-Twitch combina elementos procedentes de la televisión tradicional, los videojuegos, las redes sociales, los foros de internet y las plataformas de monetización digital. Sin embargo, no se limita a reunir estos formatos, sino que los transforma completamente mediante dinámicas algorítmicas e interactivas.
+Desde la perspectiva de Manovich, Twitch representa un caso claro de hibridación porque fusiona diferentes medios tradicionales:
+- televisión
+- videojuegos
+- redes sociales
+- foros de internet
+- sistemas de monetización digital
+
+Sin embargo, Twitch no se limita únicamente a combinar estos medios, sino que los reorganiza mediante software y algoritmos.
+
+---
 
 ## Hibridación de medios
 
-Uno de los conceptos fundamentales en Manovich es la hibridación. En Twitch observamos cómo diferentes medios convergen y generan una experiencia nueva imposible de clasificar dentro de un único formato tradicional.
+Uno de los conceptos principales desarrollados por Manovich es la hibridación digital. Twitch combina características de diferentes medios para crear una experiencia completamente nueva.
 
-Por una parte, mantiene características propias de la televisión:
-- emisiones en directo
+Por una parte, mantiene elementos heredados de la televisión tradicional:
+- retransmisiones en directo
 - programación continua
 - figuras mediáticas
 - entretenimiento audiovisual
 
-Sin embargo, incorpora simultáneamente elementos de los videojuegos:
-- sistemas de niveles
-- recompensas
-- logros
-- cultura gamer
-- interacción en tiempo real
+Pero al mismo tiempo incorpora dinámicas propias de internet y los videojuegos:
+- chats en tiempo real
+- emojis y memes
+- recompensas digitales
+- suscripciones
+- interacción constante entre creador y audiencia
 
-Además, integra dinámicas propias de las redes sociales:
-- chats colectivos
-- emojis
-- memes
-- participación constante del usuario
+La plataforma transforma el consumo audiovisual en una experiencia participativa donde el espectador deja de ser pasivo.
 
-El resultado no es simplemente televisión online, sino una experiencia híbrida gobernada por la lógica del software.
+---
 
 ## Interactividad y participación colectiva
 
-A diferencia de la televisión tradicional, Twitch elimina la separación clara entre emisor y receptor. El espectador deja de ser pasivo y participa activamente en el desarrollo del contenido mediante:
+A diferencia de la televisión convencional, Twitch convierte la interacción en el centro de la experiencia. Los usuarios participan constantemente mediante:
 - comentarios en directo
 - donaciones
+- encuestas
 - suscripciones
-- votaciones
 - creación de clips
 - difusión de memes
 
-Esta interacción constante transforma el contenido en una construcción colectiva. El streamer adapta continuamente su comportamiento en función del chat, mientras que la comunidad influye directamente sobre la narrativa del directo.
+El streamer adapta continuamente su comportamiento en función de las reacciones del chat. El contenido deja de depender únicamente del creador y pasa a construirse colectivamente junto a la comunidad.
 
-Esta dinámica conecta con la cultura participativa y el crowdsourcing característicos de internet. La experiencia audiovisual ya no depende únicamente del creador, sino de una comunidad que colabora, modifica y redistribuye el contenido constantemente.
+Esta dinámica conecta directamente con la cultura participativa y el crowdsourcing característicos de internet. La audiencia no solo consume contenido, sino que también lo modifica, redistribuye y amplifica.
 
-## Variabilidad y modularidad
+Un ejemplo muy visible de este fenómeno es el caso del streamer español Ibai Llanos, cuyos directos generan constantemente clips, memes y conversaciones que posteriormente circulan por TikTok, Twitter/X o YouTube.
 
-Manovich explica que el contenido digital posee una naturaleza variable y modular. En Twitch esta idea resulta especialmente visible.
+---
 
-Cada retransmisión puede cambiar dinámicamente:
+## Modularidad y variabilidad
+
+Manovich explica que los medios digitales funcionan mediante estructuras modulares y variables. En Twitch esto resulta especialmente visible.
+
+Cada retransmisión incorpora elementos independientes:
 - overlays
 - alertas
-- sonidos
-- cámaras
 - widgets
+- cámaras
+- sonidos
+- sistemas de moderación
 - recomendaciones algorítmicas
 
-Todos estos elementos funcionan como módulos independientes gestionados por software. La interfaz nunca permanece completamente fija, sino que evoluciona constantemente según:
-- el streamer
-- la audiencia
-- el algoritmo
-- el contexto del directo
+Todos estos componentes pueden modificarse dinámicamente en tiempo real.
 
-Además, el contenido generado puede fragmentarse fácilmente en clips reutilizables que circulan posteriormente por TikTok, YouTube o Twitter/X. El directo deja así de ser un contenido cerrado para convertirse en una estructura flexible y reutilizable.
+Además, el contenido generado nunca permanece fijo. Los directos pueden fragmentarse fácilmente en clips reutilizables que circulan posteriormente por otras plataformas digitales. Esto convierte la retransmisión en una estructura flexible y adaptable.
+
+---
 
 ## Transcodificación cultural
 
-Otro concepto importante de Manovich es la transcodificación cultural: la forma en que la lógica informática transforma prácticas culturales humanas.
+Otro concepto importante en Manovich es la transcodificación cultural: la manera en que la lógica informática transforma las prácticas culturales humanas.
 
-En Twitch, las relaciones sociales se convierten en datos cuantificables:
+En Twitch, las relaciones sociales y el entretenimiento se convierten en datos procesables:
 - número de espectadores
 - seguidores
-- suscripciones
 - tiempo de visualización
 - donaciones
 - engagement
+- métricas de interacción
 
-La popularidad se traduce en métricas procesables por algoritmos que condicionan la visibilidad del contenido. De esta forma, el entretenimiento se reorganiza según criterios propios del software y de la economía de la atención.
+La popularidad pasa a depender de sistemas algorítmicos que determinan la visibilidad del contenido. De esta forma, la cultura audiovisual queda reorganizada según la lógica del software y de la economía de la atención.
+
+---
 
 ## Conclusión
 
-Twitch representa un ejemplo contemporáneo de hibridación digital donde televisión, videojuegos y redes sociales convergen bajo la lógica del software. La plataforma no solo distribuye contenido audiovisual, sino que redefine completamente las relaciones entre creador, audiencia y tecnología mediante sistemas interactivos, algoritmos y participación colectiva.
+Twitch representa un ejemplo contemporáneo de hibridación digital donde televisión, videojuegos y redes sociales convergen bajo la lógica del software. La plataforma no solo distribuye contenido audiovisual, sino que redefine completamente la relación entre creador, audiencia y tecnología mediante sistemas interactivos y dinámicas algorítmicas.
 
-Desde la perspectiva de Manovich, Twitch demuestra cómo el software no actúa únicamente como soporte técnico, sino como una estructura cultural capaz de reorganizar la experiencia comunicativa contemporánea.
+Desde la perspectiva de Manovich, Twitch demuestra cómo el software se ha convertido en una estructura cultural capaz de reorganizar el entretenimiento contemporáneo.
 
 ---
 
@@ -111,97 +141,113 @@ Desde la perspectiva de Manovich, Twitch demuestra cómo el software no actúa �
 
 ## Introducción al caso
 
-Classcraft es una plataforma educativa que utiliza mecánicas propias de los videojuegos de rol para transformar la dinámica del aula. Los estudiantes crean avatares, trabajan en equipo, ganan experiencia y desbloquean recompensas según su comportamiento y rendimiento académico.
+Classcraft es una plataforma educativa que utiliza mecánicas propias de los videojuegos de rol para transformar la dinámica del aula. Los estudiantes crean avatares, ganan experiencia, trabajan en equipo y desbloquean recompensas según su comportamiento y progreso académico.
 
-La plataforma representa un ejemplo claro de hibridación porque fusiona elementos procedentes de:
-- la educación tradicional
-- los videojuegos RPG
-- las redes colaborativas
-- la gamificación
-- la gestión algorítmica de datos
+La plataforma representa un ejemplo muy claro de hibridación digital porque fusiona:
+- educación tradicional
+- videojuegos RPG
+- gamificación
+- sistemas de recompensa
+- gestión algorítmica de datos
+- dinámicas colaborativas online
 
-Classcraft convierte el aprendizaje en una experiencia interactiva diseñada mediante software.
+El aula tradicional se convierte así en una experiencia interactiva organizada mediante software.
+
+---
 
 ## Gamificación e hibridación
 
-La principal característica híbrida de Classcraft es la incorporación de estructuras narrativas y mecánicas propias del videojuego dentro del entorno educativo.
+La principal característica híbrida de Classcraft es la incorporación de estructuras propias de los videojuegos dentro del contexto educativo.
 
-El aula tradicional se transforma mediante:
-- sistemas de niveles
+El sistema introduce elementos como:
+- niveles
 - puntos de experiencia
 - poderes especiales
 - misiones
 - recompensas
-- trabajo cooperativo
+- avatares personalizados
 
-La educación deja de funcionar únicamente mediante métodos disciplinarios clásicos y adopta dinámicas lúdicas inspiradas en videojuegos multijugador online.
+La educación deja de organizarse únicamente mediante métodos disciplinarios clásicos y adopta dinámicas lúdicas inspiradas en videojuegos multijugador online.
 
-Este proceso ejemplifica perfectamente la hibridación descrita por Manovich: diferentes medios y prácticas culturales se combinan para generar nuevas experiencias digitales.
+Este proceso refleja perfectamente la idea de hibridación planteada por Manovich: diferentes medios y prácticas culturales convergen para generar nuevas experiencias digitales.
+
+---
 
 ## Automatización y lógica algorítmica
 
-Uno de los principios fundamentales del software contemporáneo es la automatización. En Classcraft, muchas funciones tradicionalmente gestionadas manualmente por el profesor son administradas por el sistema:
+Uno de los principios fundamentales del software contemporáneo es la automatización. En Classcraft, numerosos procesos educativos son gestionados automáticamente por la plataforma:
 - puntuaciones
-- seguimiento del progreso
+- seguimiento del alumnado
 - recompensas
 - estadísticas
 - penalizaciones
-- evolución del alumnado
+- progresión académica
 
-La plataforma automatiza procesos educativos mediante algoritmos que organizan la información y generan respuestas inmediatas.
+El software actúa como intermediario entre profesor y estudiante, modificando las dinámicas tradicionales del aula.
 
-El software actúa como mediador entre profesor y estudiante, modificando las dinámicas tradicionales del aula.
+La plataforma automatiza tareas educativas que anteriormente dependían exclusivamente de la supervisión humana. Esto demuestra cómo el software no solo apoya la educación, sino que también reorganiza su funcionamiento interno.
+
+---
 
 ## Base de datos y cuantificación
 
-Manovich explica que gran parte de la cultura digital contemporánea se organiza mediante bases de datos. En Classcraft, cada alumno se convierte en un conjunto de datos procesables:
+Manovich explica que gran parte de la cultura digital actual se organiza mediante bases de datos. En Classcraft, cada estudiante se transforma en un conjunto de datos cuantificables:
 - experiencia acumulada
 - comportamiento
-- rendimiento
-- estadísticas de participación
-- progresión académica
+- asistencia
+- participación
+- rendimiento académico
 
-La actividad educativa se traduce constantemente en métricas visuales e información cuantificada. El aprendizaje se reorganiza mediante sistemas digitales de seguimiento y análisis.
+Toda la actividad educativa queda registrada y organizada computacionalmente.
 
-Esta lógica convierte la experiencia educativa en una estructura gestionada computacionalmente.
+La plataforma convierte el aprendizaje en una experiencia medible mediante estadísticas y métricas visuales. Esta lógica transforma la percepción tradicional de la educación y la adapta a estructuras propias del entorno digital.
+
+---
 
 ## Interactividad y participación
 
-Classcraft también transforma la posición del estudiante. El alumno deja de ser un receptor pasivo y pasa a participar activamente dentro de un sistema interactivo.
+Classcraft también modifica el papel del estudiante dentro del aula. El alumno deja de ser un receptor pasivo y participa activamente en el sistema interactivo.
 
 Los estudiantes:
-- toman decisiones
-- colaboran en equipo
-- personalizan avatares
+- colaboran en equipos
 - desarrollan estrategias
+- toman decisiones
+- personalizan personajes
 - desbloquean habilidades
 - participan en misiones narrativas
 
-La plataforma incorpora elementos propios de los videojuegos online y fomenta dinámicas colaborativas similares a las comunidades digitales contemporáneas.
+La plataforma incorpora dinámicas similares a los videojuegos online y fomenta la cooperación entre usuarios.
+
+Muchos de estos sistemas recuerdan a mecánicas presentes en MMORPGs como *World of Warcraft*, donde la progresión y el trabajo colectivo forman parte central de la experiencia.
+
+---
 
 ## Transcodificación cultural
 
-La lógica del videojuego termina modificando la propia percepción del aprendizaje. Conceptos educativos tradicionales como:
+La lógica del videojuego modifica profundamente la percepción del aprendizaje. Conceptos tradicionales como:
 - evaluación
 - disciplina
-- asistencia
 - participación
+- rendimiento
 
-son reinterpretados mediante mecánicas de recompensa digital.
+son reinterpretados mediante estructuras de recompensa digital.
 
-La educación adopta estructuras típicas del entretenimiento interactivo:
+La educación adopta dinámicas propias del entretenimiento interactivo:
 - progresión constante
-- retroalimentación inmediata
-- sistemas de recompensa
+- feedback inmediato
+- recompensas visuales
 - personalización
+- experiencia inmersiva
 
 Este fenómeno refleja claramente la transcodificación cultural descrita por Manovich.
 
+---
+
 ## Conclusión
 
-Classcraft representa un caso significativo de hibridación digital contemporánea porque transforma el entorno educativo mediante dinámicas propias del software y los videojuegos.
+Classcraft representa un ejemplo significativo de hibridación digital porque transforma el entorno educativo mediante dinámicas propias del software y los videojuegos.
 
-La plataforma demuestra cómo el software puede reorganizar prácticas culturales tradicionales mediante automatización, gamificación, bases de datos e interactividad. Desde la perspectiva de Manovich, Classcraft evidencia cómo las interfaces digitales ya no solo apoyan procesos educativos, sino que redefinen completamente la experiencia del aprendizaje.
+La plataforma demuestra cómo el software puede reorganizar prácticas culturales tradicionales mediante automatización, gamificación, bases de datos e interactividad. Desde la perspectiva de Manovich, Classcraft evidencia cómo las interfaces digitales no solo apoyan el aprendizaje, sino que redefinen completamente la experiencia educativa.
 
 ---
 
@@ -209,21 +255,23 @@ La plataforma demuestra cómo el software puede reorganizar prácticas culturale
 
 Twitch y Classcraft representan dos ejemplos contemporáneos de hibridación digital donde el software actúa como elemento central de transformación cultural.
 
-En Twitch, el entretenimiento audiovisual se fusiona con dinámicas participativas, algoritmos y sistemas de monetización digital. En Classcraft, la educación tradicional adopta mecánicas propias del videojuego y estructuras basadas en datos e interactividad.
+En Twitch, el entretenimiento audiovisual se fusiona con sistemas participativos, algoritmos y dinámicas propias de las redes sociales. En Classcraft, la educación adopta estructuras inspiradas en videojuegos y sistemas digitales de cuantificación.
 
-Ambos casos demuestran que el software no funciona únicamente como herramienta tecnológica, sino como un sistema capaz de reorganizar experiencias culturales completas. Las plataformas digitales contemporáneas ya no reproducen simplemente medios anteriores, sino que generan nuevos formatos híbridos donde convergen comunicación, datos, participación y automatización.
+Ambos casos demuestran que el software ya no funciona únicamente como herramienta tecnológica, sino como una estructura capaz de reorganizar completamente experiencias culturales tradicionales.
 
-Las ideas planteadas por Lev Manovich continúan siendo plenamente vigentes para comprender cómo las interfaces digitales y los sistemas algorítmicos transforman actualmente nuestra manera de aprender, entretenernos e interactuar socialmente.
+Las ideas desarrolladas por Lev Manovich continúan siendo plenamente vigentes para comprender cómo las interfaces digitales y los sistemas algorítmicos transforman actualmente nuestra manera de aprender, comunicarnos y consumir entretenimiento.
+
+Estos ejemplos también demuestran que la hibridación digital ya no es una excepción dentro de la cultura contemporánea, sino el modelo dominante mediante el cual interactuamos diariamente con el entorno digital.
 
 ---
 
-# Bibliografía y recursos
+# Bibliografía y referencias
 
 ## Bibliografía
 
 - Manovich, Lev. *El software toma el mando*. Editorial UOC.
-- McLuhan, Marshall. *Understanding Media*.
 - Jenkins, Henry. *Convergence Culture*.
+- McLuhan, Marshall. *Understanding Media*.
 
 ## Recursos web
 
@@ -234,8 +282,14 @@ Las ideas planteadas por Lev Manovich continúan siendo plenamente vigentes para
 - https://submarinechannel.com
 - https://github.com
 
-## Recursos multimedia
+---
 
-- Capturas oficiales de Twitch
-- Capturas oficiales de Classcraft
-- Material gráfico utilizado únicamente con finalidad académica
+# Uso de herramientas de IA
+
+Para la elaboración de esta práctica se ha utilizado inteligencia artificial como herramienta de apoyo para:
+- revisión sintáctica y gramatical
+- organización estructural del ensayo
+- apoyo documental
+- propuesta de enfoques teóricos relacionados con Lev Manovich
+
+El contenido final ha sido revisado y adaptado personalmente para adecuarlo a los objetivos académicos de la práctica.
