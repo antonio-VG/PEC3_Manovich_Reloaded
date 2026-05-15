@@ -1,16 +1,20 @@
 # PEC3_Manovich_Reloaded
 
-# Autor
+### Autor
 
 Antonio Vidal González
 
-# Asignatura
+### Asignatura
 
 Cultura Digital
 
-# Curso
+### Universidad
 
-UOC 2025/2026
+UOC
+
+### Curso
+
+2025/2026
 
 # Repositorio Github
 
